@@ -7,6 +7,7 @@ Simple test app for evaluating googletest with eclipse CDT
 
 ```bash
 ...gtest/gtest-1.7.0$ ./scripts/fuse_gtest_files.py . ../project/gtest_src/
+```
 
 This will copy gtest.h and gtest-all.cc into the test project
 
@@ -58,3 +59,4 @@ Expected: 6
 
 1 FAILED TEST
   YOU HAVE 1 DISABLED TEST
+```
